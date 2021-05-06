@@ -1,0 +1,109 @@
+{
+  "id": "/subscriptions/214e8b93-bb21-42cb-a320-0662045a2eb9/providers/Microsoft.ContainerService/locations/westus/orchestrators",
+  "name": "default",
+  "orchestrators": [
+    {
+      "default": null,
+      "isPreview": null,
+      "orchestratorType": "Kubernetes",
+      "orchestratorVersion": "1.18.14",
+      "upgrades": [
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.18.17"
+        },
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.19.7"
+        },
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.19.9"
+        }
+      ]
+    },
+    {
+      "default": null,
+      "isPreview": null,
+      "orchestratorType": "Kubernetes",
+      "orchestratorVersion": "1.18.17",
+      "upgrades": [
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.19.7"
+        },
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.19.9"
+        }
+      ]
+    },
+    {
+      "default": null,
+      "isPreview": null,
+      "orchestratorType": "Kubernetes",
+      "orchestratorVersion": "1.19.7",
+      "upgrades": [
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.19.9"
+        },
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.20.2"
+        },
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.20.5"
+        }
+      ]
+    },
+    {
+      "default": true,
+      "isPreview": null,
+      "orchestratorType": "Kubernetes",
+      "orchestratorVersion": "1.19.9",
+      "upgrades": [
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.20.2"
+        },
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.20.5"
+        }
+      ]
+    },
+    {
+      "default": null,
+      "isPreview": null,
+      "orchestratorType": "Kubernetes",
+      "orchestratorVersion": "1.20.2",
+      "upgrades": [
+        {
+          "isPreview": null,
+          "orchestratorType": "Kubernetes",
+          "orchestratorVersion": "1.20.5"
+        }
+      ]
+    },
+    {
+      "default": null,
+      "isPreview": null,
+      "orchestratorType": "Kubernetes",
+      "orchestratorVersion": "1.20.5",
+      "upgrades": null
+    }
+  ],
+  "type": "Microsoft.ContainerService/locations/orchestrators"
+}
