@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\ShoppingCart.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\ShoppingCart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\ShoppingCart.csproj",
+        "projectName": "ShoppingCart",
+        "projectPath": "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\ShoppingCart.csproj",
+        "packagesPath": "C:\\Users\\kiyotaka\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kiyotaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

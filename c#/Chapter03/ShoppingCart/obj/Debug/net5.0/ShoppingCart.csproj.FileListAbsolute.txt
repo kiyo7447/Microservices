@@ -1,0 +1,6 @@
+C:\dev\GitHub\microservices-in-dotnet-book-second-edition\Chapter03\ShoppingCart\obj\Debug\net5.0\ShoppingCart.csprojAssemblyReference.cache
+C:\dev\GitHub\microservices-in-dotnet-book-second-edition\Chapter03\ShoppingCart\obj\Debug\net5.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\GitHub\microservices-in-dotnet-book-second-edition\Chapter03\ShoppingCart\obj\Debug\net5.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\dev\GitHub\microservices-in-dotnet-book-second-edition\Chapter03\ShoppingCart\obj\Debug\net5.0\ShoppingCart.AssemblyInfo.cs
+C:\dev\GitHub\microservices-in-dotnet-book-second-edition\Chapter03\ShoppingCart\obj\Debug\net5.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\dev\GitHub\microservices-in-dotnet-book-second-edition\Chapter03\ShoppingCart\obj\Debug\net5.0\ShoppingCart.MvcApplicationPartsAssemblyInfo.cache
