@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Q0sWf9u2xBnnwXHWBorUCd8eKIznz6oI90+IACaqNrNxW/eDh+vfdSdpu0G7+YhcTffYsJzYiqBpDb+rJHppA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter06\\ProductCatalog\\ProductCatalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiyotaka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\kiyotaka\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\kiyotaka\\.nuget\\packages\\scrutor\\3.3.0\\scrutor.3.3.0.nupkg.sha512",
+    "C:\\Users\\kiyotaka\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\ShoppingCart.csproj": {}
+    "C:\\dev\\GitHub\\Microservice\\c#\\Chapter02\\ShoppingCart\\ShoppingCart.csproj": {}
   },
   "projects": {
-    "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\ShoppingCart.csproj": {
+    "C:\\dev\\GitHub\\Microservice\\c#\\Chapter02\\ShoppingCart\\ShoppingCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\ShoppingCart.csproj",
+        "projectUniqueName": "C:\\dev\\GitHub\\Microservice\\c#\\Chapter02\\ShoppingCart\\ShoppingCart.csproj",
         "projectName": "ShoppingCart",
-        "projectPath": "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\ShoppingCart.csproj",
+        "projectPath": "C:\\dev\\GitHub\\Microservice\\c#\\Chapter02\\ShoppingCart\\ShoppingCart.csproj",
         "packagesPath": "C:\\Users\\kiyotaka\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\obj\\",
+        "outputPath": "C:\\dev\\GitHub\\Microservice\\c#\\Chapter02\\ShoppingCart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ydeeiFqFqlWyF2SZZzhdIWXnpgVu/1IegHPdz5hF2nUll9LEW+6iZhZJdlWumtChlHKlnyebilGTUPEdD7aLtw==",
+  "dgSpecHash": "BjC3Nq4nFRm9yz8yPidgsCjVe0wiGZDJLsyIolUvAZ2aSD6UQiWxP9PGgu0FRF7WBmzaG5Yd05t7qcRhc+pAgg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\GitHub\\microservices-in-dotnet-book-second-edition\\Chapter02\\ShoppingCart\\ShoppingCart.csproj",
+  "projectFilePath": "C:\\dev\\GitHub\\Microservice\\c#\\Chapter02\\ShoppingCart\\ShoppingCart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kiyotaka\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
     "C:\\Users\\kiyotaka\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
